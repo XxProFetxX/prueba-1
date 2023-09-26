@@ -10,6 +10,12 @@
     --orbitColor        : rgba(255, 255, 255, 0.5); /* $orbitColor */
 }
 
+.qa-red {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
 body {
     text-align: center;
     background: #3c528c;
